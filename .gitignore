@@ -1,3 +1,21 @@
+## projects items
+
+# data extensions
+data/
+/data/*
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.parq
+
+
+
+## python gitignore
+
+# pycharm files
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +23,8 @@ __pycache__/
 
 # C extensions
 *.so
+
+
 
 # Distribution / packaging
 .Python
