@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 
-# Relation Extraction on Financial Documents (REFinD) Challenge
+# Relation Extraction on Financial Documents (REFinD) Competition
 
 <b>KDF@SIGIR2023 Shared Task</b> <br>
 
@@ -23,7 +23,7 @@ An example instance from the dataset is shown below:
 More information about the REFinD dataset can be found here: [REFinD](https://refind-re.github.io/index.html)
 
 
-## Structure
+## Project Structure
 
 The repository is structured as follows: 
 
@@ -33,12 +33,14 @@ The repository is structured as follows:
  - [`requirements.txt`](requirements.txt) contains the requirements for the project
  - [`DEFINITIONS.md`](DEFINITIONS.md) briefly describes the dataset, the variables, and the model
 
+## Paper Submission
+[TBC](TBC)
 
 ## Authors
 
-<i>[Dimitrios Petridis](https://github.com/dim10P) - Data Analyst & BI
+[Dimitrios Petridis](https://github.com/dim10P) - Data Analyst & BI
 
 [Stefan Pasch](https://github.com/Stefan-Pasch) - Data Scientist
 
-Team: DataMonkeys</i><br>
+Team: DataMonkeys<br>
 <img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/afa8bcbd-bab6-42dc-9d88-025719f55642" width="250">
