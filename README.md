@@ -6,7 +6,7 @@
 
 ## Summary
 
-KDF@SIGIR2023 Shared Task
+KDF@SIGIR2023 Shared Task<br><br>
 Sponsored by J.P. Morgan
 
 The competition is a part of the Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services, co-located with SIGIR 2023. The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)
