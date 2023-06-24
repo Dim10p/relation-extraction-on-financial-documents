@@ -10,14 +10,7 @@
 <i>Sponsored by</i> <br>
 <img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/bab8a7c9-fa7d-4c56-8be6-86727ee77af6" width="250">
 
-<<<<<<< HEAD
-KDF@SIGIR2023 Shared Task<br><br>
-Sponsored by J.P. Morgan
-
-The competition is a part of the Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services, co-located with SIGIR 2023. The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)
-=======
 The competition was a part of the [Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://kdf-workshop.github.io/kdf23/), co-located with SIGIR 2023.<br> The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)<br>
->>>>>>> 4677dc0392bd2a746d67d44ddf0924e0ac23a34b
 
 Our team achieved <b>first place</b> in the competition, securing a remarkable <b>75% F1-score</b>.<br>
 <img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/2a7060f9-497e-445e-9424-068a11f3c732)" width="150">
