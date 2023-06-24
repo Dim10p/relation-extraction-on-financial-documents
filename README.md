@@ -1,14 +1,16 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-# Relation Extraction on Financial Documents Challenge (REFinD)
+
+# Relation Extraction on Financial Documents (REFinD) Challenge
+
+
+## Summary
 
 KDF@SIGIR2023 Shared Task
 Sponsored by J.P. Morgan
 
-The shared task is a part of the Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services, co-located with SIGIR 2023. The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)
+The competition is a part of the Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services, co-located with SIGIR 2023. The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)
 
-
-The main file is a jupyter notebook that trains the model on the public datasets, generates the predictions on the private datasets, and further processes the final data: [`main.ipynb`](main.ipynb).
 
 
 ## The REFinD Dataset
@@ -20,9 +22,9 @@ The repository is structured as follows:
 
  - [`data`](data/) contains the public datasets, the private dataset and the output data
  - [`utils`](utils/) contains all the utility functions and constants
- - [`README.md`] (README.md) describes
- - [`main.ipynb`](main.ipynb) is a jupyter notebook that trains the model on the public datasets, performs the predictions on the private dataset, and further processes the output
+ - [`main.ipynb`](main.ipynb) is a jupyter notebook that trains the model on the public datasets, generates the predictions on the private dataset, and further processes the output
  - [`requirements.txt`](requirements.txt) contains the requirements for the project
+ - [`DEFINITIONS.md`] (DEFINITIONS.md) briefly describes the dataset, the variables, and the used model
 
 
 ### Authors
