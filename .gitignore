@@ -1,8 +1,8 @@
 ## projects items
 
 # data extensions
-data/
-/data/*
+archive/data/
+/archive/data/*
 *.csv
 *.xls
 *.xlsx
@@ -95,7 +95,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+archive/.ipynb_checkpoints
 
 # IPython
 profile_default/
