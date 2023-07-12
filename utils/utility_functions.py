@@ -17,3 +17,6 @@ def create_input(token_list, e1_start, e2_start, ner_list):
       text = token_list[i]
     output_text= output_text + " " + text
   return output_text
+
+def tokenize_function(examples):
+    return tokenizer(examples["text"], padding="max_length", truncation=True)
