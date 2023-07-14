@@ -14,7 +14,7 @@
 The competition was a part of the [Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://kdf-workshop.github.io/kdf23/), co-located with SIGIR 2023.<br> The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)<br>
 
 Our team achieved <b>first place</b> in the competition, securing a remarkable <b>75% F1-score</b>.<br>
-<img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/2a7060f9-497e-445e-9424-068a11f3c732)" width="150">
+<img src="images/medal.png" alt="Alt Text" width="200" height="150">
 
 
 ## The REFinD Dataset
@@ -43,4 +43,4 @@ Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extracti
 [Stefan Pasch](https://github.com/Stefan-Pasch) - Data Scientist
 
 Team: DataMonkeys<br>
-<img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/afa8bcbd-bab6-42dc-9d88-025719f55642" width="250">
+<img src="images/logo.avif" alt="Alt Text" width="300" height="150">
