@@ -8,7 +8,7 @@
 <b>KDF@SIGIR2023 Shared Task</b> <br>
 
 <i>Sponsored by</i> <br>
-<img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/bab8a7c9-fa7d-4c56-8be6-86727ee77af6" width="250">
+<img src="https://github.com/Dim10p/relation-extraction-on-financial-documents/blob/main/assets/120978979/bab8a7c9-fa7d-4c56-8be6-86727ee77af6.png" width="250">
 
 The competition was a part of the [Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://kdf-workshop.github.io/kdf23/), co-located with SIGIR 2023.<br> The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)<br>
 
