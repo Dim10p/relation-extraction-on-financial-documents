@@ -30,14 +30,14 @@ The repository is structured as follows:
  - [`data`](data/) contains the public datasets, the private dataset, and the output data
  - [`main.ipynb`](main.ipynb) is a jupyter notebook with the core code
  - [`requirements.txt`](requirements.txt) contains the requirements for the project
- - [`DEFINITIONS.md`](DEFINITIONS.md) briefly describes the dataset, the variables, and the model
+ - [`DEFINITIONS.md`](DEFINITIONS.md) briefly describes the dataset and the variables
 
 ## Paper Submission
-[TBC](TBC)
+[TBC](Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction)
 
 ## Authors
 
-[Dimitrios Petridis](https://github.com/dim10P) - Data Analyst & BI
+[Dimitrios Petridis](https://github.com/dim10P) - Data Scientist
 
 [Stefan Pasch](https://github.com/Stefan-Pasch) - Data Scientist
 
