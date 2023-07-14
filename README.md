@@ -28,7 +28,6 @@ More information about the REFinD dataset can be found here: [REFinD](https://re
 The repository is structured as follows: 
 
  - [`data`](data/) contains the public datasets, the private dataset, and the output data
- - [`utils`](utils/) contains all the utility functions and constants
  - [`main.ipynb`](main.ipynb) is a jupyter notebook with the core code
  - [`requirements.txt`](requirements.txt) contains the requirements for the project
  - [`DEFINITIONS.md`](DEFINITIONS.md) briefly describes the dataset, the variables, and the model
