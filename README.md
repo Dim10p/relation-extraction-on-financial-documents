@@ -33,7 +33,7 @@ The repository is structured as follows:
  - [`DEFINITIONS.md`](DEFINITIONS.md) briefly describes the dataset and the variables
 
 ## Paper Submission
-[TBC](Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction)
+Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction
 
 ## Authors
 
