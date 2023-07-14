@@ -3,3 +3,7 @@ numpy
 accelerate
 transformers
 datasets
+scipy
+matplotlib
+ast
+tqdm
