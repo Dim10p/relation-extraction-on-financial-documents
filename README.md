@@ -19,8 +19,6 @@ Our team achieved <b>first place</b> in the competition, securing a remarkable <
 
 ## The REFinD Dataset
 Relation extraction (RE) from text is a core problem in NLP and information retrieval that aids in various tasks such as building knowledge graphs, question answering and semantic search. Most available large-scale RE datasets are compiled using general knowledge sources such as Wikipedia, web texts and news articles. However, these datasets often fail to capture domain-specific challenges. In particular, financial text documents such as financial reports and various Securities and Exchange Commission (SEC) filings are significantly different from general English language documents and require extracting entities and relations containing numbers, currencies, dates, legal facts, and claims, and that have much longer and more complex sentences with large distances between entities. To address financial domain-specific challenges, we build the largest-scale relation extraction dataset over financial documents to-date, REFinD, with 29K instances and 22 relations amongst 8 types of entity pairs. REFinD is a domain specific financial relation-extraction dataset built using raw text from various 10-X (10-K, 10-Q, etc. broadly known as 10-X) reports of publicly traded companies that were obtained from US Securities and Exchange Commission (SEC).<br>
-An example instance from the dataset is shown below:
-![image](https://github.com/Dim10p/relation-extraction-on-financial-documents/assets/120978979/c93256a3-7353-4183-aa93-e39de8c03d63)
 More information about the REFinD dataset can be found here: [REFinD](https://refind-re.github.io/index.html)
 
 
