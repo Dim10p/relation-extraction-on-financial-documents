@@ -32,7 +32,8 @@ The repository is structured as follows:
  - [`DEFINITIONS.md`](DEFINITIONS.md) briefly describes the dataset and the variables
 
 ## Paper Submission
-Ahead of the Text: Leveraging Entity Preposition for Financial Relation Extraction
+[Ahead of the Text: Leveraging Entity Preposition for Financial
+Relation Extraction](https://kdf-workshop.github.io/kdf23/assets/images/kdf_s1.pdf)
 
 ## Authors
 
