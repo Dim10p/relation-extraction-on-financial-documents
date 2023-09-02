@@ -12,7 +12,7 @@
 <img src="images/medal.png" alt="Alt Text" width="200" height="150">
 
 The competition was a part of the [Fourth Workshop on Knowledge Discovery from Unstructured Data in Financial Services](https://kdf-workshop.github.io/kdf23/), co-located with SIGIR 2023.<br>
-The leaderboard can be found here: [[Shared Task Leaderboard](https://kdf-workshop.github.io/kdf23/shared_task)]<br>
+The leaderboard can be found here: [Shared Task Leaderboard](https://kdf-workshop.github.io/kdf23/shared_task)<br>
 The competition was hosted here: [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/11770#learn_the_details)<br>
 
 Our team achieved <b>first place</b> in the competition, securing a remarkable <b>75% F1-score</b>.<br>
